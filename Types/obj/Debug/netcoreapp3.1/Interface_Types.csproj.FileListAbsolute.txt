@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Interface_Types\obj\Debug\netcoreapp3.1\Interface_Types.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Interface_Types\obj\Debug\netcoreapp3.1\Interface_Types.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Interface_Types\obj\Debug\netcoreapp3.1\Interface_Types.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Interface_Types\obj\Debug\netcoreapp3.1\Interface_Types.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Interface_Types\bin\Debug\netcoreapp3.1\Interface_Types.exe
+C:\Users\Rohit Dasari\source\repos\Interface_Types\bin\Debug\netcoreapp3.1\Interface_Types.deps.json
+C:\Users\Rohit Dasari\source\repos\Interface_Types\bin\Debug\netcoreapp3.1\Interface_Types.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Interface_Types\bin\Debug\netcoreapp3.1\Interface_Types.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Interface_Types\bin\Debug\netcoreapp3.1\Interface_Types.dll
+C:\Users\Rohit Dasari\source\repos\Interface_Types\bin\Debug\netcoreapp3.1\Interface_Types.pdb
+C:\Users\Rohit Dasari\source\repos\Interface_Types\obj\Debug\netcoreapp3.1\Interface_Types.dll
+C:\Users\Rohit Dasari\source\repos\Interface_Types\obj\Debug\netcoreapp3.1\Interface_Types.pdb
+C:\Users\Rohit Dasari\source\repos\Interface_Types\obj\Debug\netcoreapp3.1\Interface_Types.genruntimeconfig.cache
